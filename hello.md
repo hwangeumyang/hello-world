@@ -10,5 +10,7 @@
     - git commit -m 'message for commit'
 - push: 원격 저장소에 커밋을 업로드한다.
     - git push <remote> <branch>
-- checkout: 코드 뭉치 버리기, 마지막 커밋으로 되돌아간다.(커밋하기 이전)
+- checkout: 현재 커밋을 변경한다.
+    -
+- 코드 뭉치 버리기: 
     - git checkout <filename>
